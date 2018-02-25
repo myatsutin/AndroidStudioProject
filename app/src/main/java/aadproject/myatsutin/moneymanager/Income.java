@@ -47,7 +47,7 @@ public class Income extends AppCompatActivity {
             Manifest.permission.WRITE_EXTERNAL_STORAGE
     };
     private static final int REQUEST_EXTERNAL_STORAGE = 1;
-    
+
     public static DatabaseClass databaseClass;
     Button saveTodatabase;
 
